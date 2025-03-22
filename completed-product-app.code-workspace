@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "D:/react-task/product-app"
+		},
+		{
+			"path": "product-app-back"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "product-app-back"
+	}
+}
